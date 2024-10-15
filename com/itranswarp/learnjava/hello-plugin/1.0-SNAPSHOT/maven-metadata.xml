@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.itranswarp.learnjava</groupId>
+  <artifactId>hello-plugin</artifactId>
+  <versioning>
+    <lastUpdated>20241015163823</lastUpdated>
+    <snapshot>
+      <timestamp>20241015.163823</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20241015.163823-1</value>
+        <updated>20241015163823</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20241015.163823-1</value>
+        <updated>20241015163823</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>1.0-SNAPSHOT</version>
+</metadata>
